@@ -19,3 +19,21 @@ nav a {
 	font-size: 18px;
 	color: white;
 }
+
+.process {
+	text-align: center;
+}
+
+.process p {
+	font-size: 14px;
+}
+
+.process h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.process h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
